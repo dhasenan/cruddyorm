@@ -1,0 +1,14 @@
+{
+  "name": "cruddyorm",
+  "authors": [
+    "dhasenan"
+  ],
+  "dependencies": {
+    "vibe-d": "~>0.8.2",
+    "vibe-d-postgresql": "~>1.0.0-alpha.2",
+    "datefmt": "~>1.0.2"
+  },
+  "description": "A cruddy ORM for vibe and postgresql",
+  "copyright": "Copyright © 2018, dhasenan",
+  "license": "proprietary"
+}

@@ -1,0 +1,15 @@
+*.swp
+.dub
+docs.json
+__dummy.html
+docs/
+cruddyorm.so
+cruddyorm.dylib
+cruddyorm.dll
+cruddyorm.a
+cruddyorm.lib
+cruddyorm-test-*
+*.exe
+*.o
+*.obj
+*.lst
