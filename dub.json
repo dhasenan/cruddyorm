@@ -10,5 +10,6 @@
   },
   "description": "A cruddy ORM for vibe and postgresql",
   "copyright": "Copyright © 2018, dhasenan",
-  "license": "proprietary"
+  "license": "MS-PL",
+  "type": "library"
 }
